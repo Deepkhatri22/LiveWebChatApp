@@ -1,5 +1,6 @@
 // import { io } from "https://cdn.socket.io/4.4.1/socket.io.esm.min.js";
-const socket = io('nodeserver-0me8.onrender.com');
+// const socket = io('nodeserver-0me8.onrender.com');
+const socket = io('nodeserver-6dgw.onrender.com');
 
 const form = document.getElementById('send-conatiner');
 const messageInput = document.getElementById('messageInp')
